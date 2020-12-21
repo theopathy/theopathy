@@ -1,7 +1,4 @@
 
-
-
-Hey there 👋, This page is currently a WIP
 ![alt text](https://github.com/theopathy/theopathy/blob/main/Untitled.jpg?raw=true)
 <!--
 **theopathy/theopathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
