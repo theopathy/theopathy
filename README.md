@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/theopathy/theopathy/blob/main/Untitled.jpg?raw=true)
+![alt text](https://github.com/theopathy/theopathy/blob/main/gif.gif?raw=true)
 <!--
 **theopathy/theopathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
